@@ -15,17 +15,19 @@ body {
 }
 
 h1 {
-
+  line-height: 1.5;
   font-size: 3.5rem;
   font-weight: 900;
-  line-height: 1.5; 
-
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
   font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
 }
 
 /* Navigation Bar */
@@ -64,21 +66,20 @@ h3 {
 
 /* Benefits */
 
+#features {
+  padding: 7% 15%;
+}
+
 .feature-item {
-  padding: 20px;
+  padding: 5%;
   text-align: center;
 }
 
 .my-icon {
   color: #ef8172;
-  font-size: 3rem;
   margin: 1rem auto;
 }
 
 .my-icon:hover {
   color: #ff4c68;
-}
-
-#features p {
-  color: #8f8f8f;
 }
