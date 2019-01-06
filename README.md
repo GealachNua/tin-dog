@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog single page website using Bootstrap components.
